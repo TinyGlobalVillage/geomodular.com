@@ -12,7 +12,7 @@ const HeroSection = styled.section`
 `;
 
 const MainContent = styled.main`
-  color: green;
+  color: #00ffff;
   text-align: center;
   padding-top: 20vh;
 `;
