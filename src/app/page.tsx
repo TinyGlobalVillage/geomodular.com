@@ -27,7 +27,7 @@ export default function Home() {
         <p>
           This website is currently under construction.
         </p>
-        <p>Please check back soon!!</p>
+        <p>Please check back soon!!!</p>
       </MainContent>
     </HeroSection>
   );
