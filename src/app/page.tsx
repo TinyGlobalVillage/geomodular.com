@@ -12,7 +12,7 @@ const HeroSection = styled.section`
 `;
 
 const MainContent = styled.main`
-  color: purple;
+  color: red;
   text-align: center;
   padding-top: 20vh;
 `;
